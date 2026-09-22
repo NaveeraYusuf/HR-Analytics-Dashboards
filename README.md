@@ -57,4 +57,4 @@ The dashboard analyzes:
 
 The complete Power BI dashboard is available in this repository:
 
-`HR_Analytics_Dashboard.pbix`https://github.com/NaveeraYusuf/HR-Analytics-Dashboard/blob/main/HR_Analytics_Dashboard.pbix
+`HR_Analytics_Dashboard.pbix`https://github.com/NaveeraYusuf/HR-Analytics-Dashboards/blob/main/HR_Analytics_Dashboard_POWER%20BI.pbix

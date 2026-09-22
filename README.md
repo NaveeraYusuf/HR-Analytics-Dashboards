@@ -51,7 +51,7 @@ The dashboard analyzes:
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard]((https://github.com/NaveeraYusuf/HR-Analytics-Dashboards/blob/main/HR%20Analytics%20Dashboard.png))
+![HR Analytics Dashboard](https://github.com/NaveeraYusuf/HR-Analytics-Dashboards/blob/main/HR%20Analytics%20Dashboard.png))
 
 ## Project File
 
